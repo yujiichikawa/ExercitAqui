@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExercitAqui</string>
+    <string name="calculo_imc">Calculo IMC</string>
+    <string name="peso">peso...</string>
+    <string name="altura">altura...</string>
+    <string name="calcular">Calcular</string>
+    <string name="login">Login</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="calcular_imc">Calcular imc</string>
+    <string name="alterar_perfil">Alterar Perfil</string>
+    <string name="perfil">Perfil</string>
+</resources>
